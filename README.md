@@ -1,24 +1,5 @@
-# el-table-v2
+# ResizableHeader
 
-## Project setup
-```
-pnpm install
-```
+el-table-v2暂时还不支持鼠标拖动改变列宽，ResizableHeader 组件可以方便地为el-table-v2添加鼠标拖动改变列宽的功能
 
-### Compiles and hot-reloads for development
-```
-pnpm run serve
-```
-
-### Compiles and minifies for production
-```
-pnpm run build
-```
-
-### Lints and fixes files
-```
-pnpm run lint
-```
-
-### Customize configuration
-See [Configuration Reference](https://cli.vuejs.org/config/).
+![example](./src/assets/example.png)

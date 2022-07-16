@@ -39,8 +39,6 @@ onMounted(() => {
     if (columnResizeMark) {
       columnResizeMark.addEventListener('mousedown', onColumnMouseDown)
     }
-    console.log(columnResizeMark)
-    console.log(props.uniqueKey)
   })
 })
 
